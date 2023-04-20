@@ -49,7 +49,7 @@ public class GameBoard {
 	
 	public void displayLetters()
 	{
-		System.out.println("Available letters - " + availableLetters);
+		System.out.println("Letters Available - " + availableLetters);
 		System.out.println();
 	}
 	
